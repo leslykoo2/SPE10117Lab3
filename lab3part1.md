@@ -2,14 +2,19 @@
 
 Cyber physical ecommerce logistics system: An implementation case in Hong Kong
 1.Summarize
+
 2. Keywords used to categorize the paper
+
  -Ecommerce logistics
  -Cyber physical system
  -Synchronization
  -Case studies
 3. Main approach
+
 4.Major strengths
+
 5.Major weaknesses
+
 6.What I learn
 
 
