@@ -14,7 +14,7 @@ Cyber physical ecommerce logistics system: An implementation case in Hong Kong
  
   -Case studies
  
-3. Main approach
+3.Main approach
 
 4.Major strengths
 
