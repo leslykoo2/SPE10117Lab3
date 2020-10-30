@@ -4,7 +4,7 @@ Cyber physical ecommerce logistics system: An implementation case in Hong Kong
 
 1.Summarize
 
-2. Keywords used to categorize the paper
+2.Keywords used to categorize the paper
 
  -Ecommerce logistics
  
