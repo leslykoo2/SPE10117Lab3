@@ -5,13 +5,9 @@ Cyber physical ecommerce logistics system: An implementation case in Hong Kong
 1.Summarize
 
 2.Keywords
-
-  - Ecommerce logistics
- 
-  - Cyber physical system
- 
-  - Synchronization
- 
+  - Ecommerce logistics 
+  - Cyber physical system 
+  - Synchronization 
   - Case studies
  
 3.Main approach
